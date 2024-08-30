@@ -26,6 +26,7 @@ import React from "react";
             <div id="hours">
                 <h2>Today's Hours</h2>
                 <p>{todayHours.day} {todayHours.open} - {todayHours.close}</p>
+                <h2>Daniel Insuasti Caballero</h2>
             </div>
         )
     }
